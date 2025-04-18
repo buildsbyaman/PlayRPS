@@ -2,7 +2,7 @@
 A simple, interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Challenge the computer and keep track of your wins, losses, and total plays!
 
 🚀 Live Demo
-You can host this project using GitHub Pages or any static site host. Once deployed, include the link here.
+       https://play-rps-olive.vercel.app/
 
 🕹️ Features
        Clickable buttons for Rock, Paper, or Scissors       
