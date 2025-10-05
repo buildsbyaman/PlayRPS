@@ -1,14 +1,11 @@
-🪨📄✂️ Rock-Paper-Scissors Game
-A simple, interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Challenge the computer and keep track of your wins, losses, and total plays!
+# 🪨📄✂️ Rock-Paper-Scissors Game
 
-🚀 Live Demo
-       https://play-rps-olive.vercel.app/
+A simple, interactive Rock-Paper-Scissors game built with **HTML, CSS, and JavaScript**. Challenge the computer and track your wins, losses, and total plays.
 
-🕹️ Features
-       Clickable buttons for Rock, Paper, or Scissors       
-       Real-time result updates (win/lose/draw)
-       Scoreboard showing:
-       User score
-       Computer score
-       Total number of plays
-       Color-coded results (green for win, red for lose, black for draw)
+🔗 **Live Demo:** [Play Now](https://buildsbyaman-playrps.vercel.app/)
+
+## 🕹️ Features
+- Clickable buttons for Rock, Paper, or Scissors  
+- Real-time results: win, lose, or draw  
+- Scoreboard showing user score, computer score, and total plays  
+- Color-coded results: green (win), red (lose), black (draw)  
